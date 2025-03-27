@@ -27,8 +27,8 @@ The application is structured as a full-stack solution with the following compon
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/SakshamChouhan/FileEditorTracker.git
+   cd FileEditorTracker
    ```
 
 2. **Install dependencies**:
@@ -45,7 +45,8 @@ The application is structured as a full-stack solution with the following compon
    SESSION_SECRET=your_session_secret
    GOOGLE_CLIENT_ID=your_google_client_id
    GOOGLE_CLIENT_SECRET=your_google_client_secret
-   REDIRECT_URL=your_redirect_url
+   DATBASE_URL=your_redirect_url
+   PORT = 5000
    ```
 
 4. **Build and Run**:
@@ -70,4 +71,6 @@ Feel free to fork the repository and submit pull requests. For major changes, pl
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact [your-email@example.com](mailto:raisaksham426@.com).
+
+## CodeLikeARed❤️

@@ -67,10 +67,10 @@ Ensure all necessary environment variables are set in Render's dashboard.
 ## Contributing
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## CodeLikeARed❤️
-
 ## License
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact [your-email@example.com](mailto:raisaksham426@.com).
+
+## CodeLikeARed❤️
